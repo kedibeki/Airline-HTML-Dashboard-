@@ -5,4 +5,4 @@ Create a dashboard that displays the percentage of flights running under specifi
 <img src="https://github.com/kedibeki/Airline-HTML-Dashboard-/blob/main/Airline%20Dash.png" alt=""/>
 </p>
 
-https://kedirnasir10-8050.theiadocker-0-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai
+Click On Here To Visit My Plotly Dash](https://kedirnasir10-8050.theiadocker-0-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai)
